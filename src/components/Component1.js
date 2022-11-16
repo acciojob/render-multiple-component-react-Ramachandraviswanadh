@@ -1,6 +1,6 @@
-import React from 'react'
 
-function Component() {
+
+function Component1() {
   return (
     <div className='component1'>
        <h1 className="project-name">create a react app </h1>
@@ -9,4 +9,4 @@ function Component() {
   )
 }
 
-export default Component
+export default Component1

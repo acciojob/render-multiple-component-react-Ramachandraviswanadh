@@ -1,12 +1,12 @@
 import React, {Component, useState} from "react";
 import '../styles/App.css';
-import component from './Component';
+import Component1 from "./Component1";
 
 const App = () => {
   return (
     <div id="main">
-    
-     <Component/>
+     hi not working.
+     <Component1/>
     </div>
   )
 }
